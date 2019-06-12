@@ -1,3 +1,3 @@
 # Shopify Theme Development
 
-Install themekit
+Install [themekit](https://shopify.github.io/themekit/) 
